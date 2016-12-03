@@ -1,2 +1,6 @@
 
+<<<<<<< HEAD
 nishiwodeyan
+=======
+nishaioslamkxmkxmkl
+>>>>>>> bf07a75d7a5298723b4aa620e3bf9c460e7b1169
